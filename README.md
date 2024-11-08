@@ -19,6 +19,7 @@ A TypeScript implementation of PostgreSQL's interval type that accurately handle
 
 ## Installation
 
+Should be, but not published yet: 
 ```bash
 npm install postgresql-interval
 ```
