@@ -20,7 +20,7 @@ A TypeScript implementation of PostgreSQL's interval type that accurately handle
 ## Installation
 
 ```bash
-npm install postgres-interval
+npm install postgresql-interval
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ npm install postgres-interval
 ### Basic Usage
 
 ```typescript
-import { Interval } from 'postgres-interval';
+import { Interval } from 'postgresql-interval';
 
 // Create intervals from various formats
 const interval1 = new Interval('1 year 2 months');

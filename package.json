@@ -1,5 +1,5 @@
 {
-  "name": "postgres-interval",
+  "name": "postgresql-interval",
   "version": "0.0.1",
   "description": "Replicates all the logic of postgresql's interval data type",
   "main": "index.js",
